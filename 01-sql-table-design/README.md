@@ -25,7 +25,7 @@ starting from a single flat spreadsheet and normalizing it into five related tab
 
 ## Files
 - `Table_Design_Creation.sql` - table creation, data insertion and schema changes
-- `data/` - the source spreadsheet loaded into the tables
+- `bank_loan_updated.csv` - the source spreadsheet loaded into the tables
 
 ## How to run
 1. Import the spreadsheet into SQL Server as a table named `[bank Loan]`.
