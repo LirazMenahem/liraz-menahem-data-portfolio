@@ -29,7 +29,7 @@ Power BI · data modeling · DAX measures · interactive visuals and filters
 
 ## Files
 - `Analyze_Data_with_Power_BI.pbix` - the Power BI report (open with Power BI Desktop)
-- `data/` - the source data file
+- `Banking_Loans_Dataset` - the source data file
 
 ## How to view
 Download the `.pbix` file and open it with Power BI Desktop (free).
