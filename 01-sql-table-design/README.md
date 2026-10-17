@@ -1,7 +1,5 @@
 # Project 1: Table Design & Creation (SQL Server)
 
-> Project page: [PUT-YOUR-HTML-LINK-HERE](PUT-YOUR-HTML-LINK-HERE)
-
 ## Overview
 Design and build of a relational database (`bankLoan`) for a bank's loan portfolio,
 starting from a single flat spreadsheet and normalizing it into five related tables.
