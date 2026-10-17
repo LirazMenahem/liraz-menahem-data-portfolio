@@ -1,7 +1,5 @@
 # Project 3: Loan Data Analysis with Python
 
-> Project page: [PUT-YOUR-HTML-LINK-HERE](PUT-YOUR-HTML-LINK-HERE)
-
 ## Business question
 How do a client's credit score and demographics (age, gender, banking type)
 relate to the loan terms they receive (principal, interest, monthly payment)?
