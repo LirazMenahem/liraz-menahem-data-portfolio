@@ -15,8 +15,10 @@ database design, querying, exploratory analysis and dashboarding.
 
 ## Skills
 **SQL:** joins, CTEs, window functions, aggregations, constraints
+
 **Python:** pandas, numpy, matplotlib, seaborn
+
 **BI:** Power BI, DAX, data modeling
 
 ## Contact
-[LinkedIn](PUT-YOUR-LINK-HERE) · Liraz1411@gmail.com
+[LinkedIn](https://www.linkedin.com/in/liraz-menahem-12b8b7287/) · Liraz1411@gmail.com
