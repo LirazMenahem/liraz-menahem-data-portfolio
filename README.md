@@ -1,47 +1,22 @@
-# Bank Loan Data Analysis Project
+# Data Analyst Portfolio
 
-This project focuses on analyzing bank loan data using Python and Power BI to uncover insights about client behavior, credit scores, loan terms, and financial trends.
+Hi, I'm Liraz Menahem, a data analyst skilled in SQL, Python and Power BI.
+This repository contains four projects that cover the full analysis workflow:
+database design, querying, exploratory analysis and dashboarding.
 
-## Project Overview
+## Projects
 
-The goal of this project is to explore bank loan data and uncover insights regarding client demographics (age, gender, banking type), credit profiles, loan principal amounts, interest rates, and repayment trends to help optimize banking strategies.
+| # | Project | Tools | What it shows |
+|---|---------|-------|---------------|
+| 1 | [Table Design & Creation](./01-sql-table-design) | SQL Server | Designing a relational bank-loan database with keys and constraints |
+| 2 | [Complex SQL Queries](./02-sql-complex-queries) | SQL Server | CTEs, window functions, PIVOT and ROLLUP on the WideWorldImporters database |
+| 3 | [Loan Data Analysis](./03-python-analysis) | Python (pandas, seaborn) | Cleaning, segmentation and visualization of 120 bank loans |
+| 4 | [Power BI Dashboard](./04-power-bi-dashboard) | Power BI | Interactive dashboard on loan data |
 
-## Tools Used
+## Skills
+**SQL:** joins, CTEs, window functions, aggregations, constraints
+**Python:** pandas, numpy, matplotlib, seaborn
+**BI:** Power BI, DAX, data modeling
 
-- Python
-- Pandas
-- NumPy
-- Matplotlib & Seaborn
-- Power BI
-- Excel
-- GitHub
-
-## Project Parts
-
-### Python Data Analysis
-
-In this part, I used Python, Pandas, and NumPy to clean, explore, and analyze the bank loan dataset.  
-The analysis includes grouping data, evaluating credit score impacts, comparing customer segments (VIP, Retail, etc.), and creating exploratory visualizations.
-
-### Power BI Dashboard
-
-In this part, I created an interactive Power BI dashboard.  
-The dashboard includes filters, KPI cards, and dynamic charts that present loan distributions, demographic trends, seasonal patterns, and key financial performance indicators.
-
-## Main Insights
-
-- Analyzed how client credit scores and banking types affect loan principal amounts and terms.
-- Explored demographic differences (such as gender and age groups) in borrowing behavior and monthly payments.
-- Identified seasonal trends and patterns in loan originations over time.
-- Built an interactive Power BI dashboard for business stakeholders and decision-makers.
-
-## Files
-
-- Python analysis file (`project3_analysis.ipynb`)
-- Power BI dashboard file (`Report.pbix`)
-- Cleaned bank loan dataset (`bank_loan_updated.csv`)
-- Project images and dashboard screenshots
-
-## Portfolio
-
-This project is part of my Data Analyst portfolio.
+## Contact
+[LinkedIn](PUT-YOUR-LINK-HERE) · Liraz1411@gmail.com
