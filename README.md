@@ -1,6 +1,6 @@
 # Data Analyst Portfolio
 
-Hi, I'm Liraz Menahem, a data analyst skilled in SQL, Python and Power BI.
+Hi, I'm Liraz Menahem, a data analyst skilled in SQL, Python, Power BI and Excel.
 This repository contains four projects that cover the full analysis workflow:
 database design, querying, exploratory analysis and dashboarding.
 
