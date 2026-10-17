@@ -1,47 +1,47 @@
-# 🚗 Automotive Data Analysis & Business Insights
+# Bank Loan Data Analysis Project
 
-Welcome to my automotive data analysis project! This end-to-end project showcases my technical skills as a Data Analyst, combining data cleaning, SQL database modeling, advanced visualizations, and interactive dashboards.
+This project focuses on analyzing bank loan data using Python and Power BI to uncover insights about client behavior, credit scores, loan terms, and financial trends.
 
-## 🌟 Project Overview
+## Project Overview
 
-The objective of this project is to dive deep into the automotive market to uncover hidden patterns, pricing strategies, fuel efficiency trends, and performance metrics across various car brands. By transforming raw data into actionable business intelligence, this project demonstrates how data-driven insights can guide decision-making in the automotive industry.
+The goal of this project is to explore bank loan data and uncover insights regarding client demographics (age, gender, banking type), credit profiles, loan principal amounts, interest rates, and repayment trends to help optimize banking strategies.
 
-## 🧰 Tools & Technologies
+## Tools Used
 
-- **Python** (Pandas, Matplotlib) — Data cleaning, exploratory data analysis (EDA), and visualization.
-- **SQL** — Database design, schema creation, and querying.
-- **Power BI** — Interactive dashboards, KPI tracking, and dynamic filtering.
-- **Excel** — Initial data inspection and formatting.
-- **GitHub** — Version control and project presentation.
+- Python
+- Pandas
+- NumPy
+- Matplotlib & Seaborn
+- Power BI
+- Excel
+- GitHub
 
-## ⚙️ Project Workflow & Architecture
+## Project Parts
 
-### 1. Python Data Analysis
-- Cleaned and prepared the raw automotive dataset using **Pandas** to handle missing values and inconsistencies.
-- Performed statistical aggregations and groupings to compare brands, evaluate pricing disparities, and visualize trends.
+### Python Data Analysis
 
-### 2. SQL Car Database
-- Designed and built a fully normalized relational SQL database from scratch.
-- Structured tables covering **brands, models, categories, performance metrics, sales figures, and fuel specifications** to enable complex querying.
+In this part, I used Python, Pandas, and NumPy to clean, explore, and analyze the bank loan dataset.  
+The analysis includes grouping data, evaluating credit score impacts, comparing customer segments (VIP, Retail, etc.), and creating exploratory visualizations.
 
-### 3. Power BI Interactive Dashboard
-- Developed a dynamic, user-friendly Power BI report equipped with KPI cards, slicers, and multi-layered charts.
-- Effectively communicates car performance, pricing dynamics, and market trends at a single glance.
+### Power BI Dashboard
 
-## 📈 Key Insights & Findings
+In this part, I created an interactive Power BI dashboard.  
+The dashboard includes filters, KPI cards, and dynamic charts that present loan distributions, demographic trends, seasonal patterns, and key financial performance indicators.
 
-- Successfully benchmarked and compared car brands based on model variety and market presence.
-- Uncovered critical correlations between vehicle pricing, performance capabilities, and fuel efficiency.
-- Highlighted shifting consumer and market trends through automated SQL queries and visual storytelling.
-- Delivered a seamless, production-ready analytics pipeline from raw data to executive-level presentation.
+## Main Insights
 
-## 📂 Project Repository Files
+- Analyzed how client credit scores and banking types affect loan principal amounts and terms.
+- Explored demographic differences (such as gender and age groups) in borrowing behavior and monthly payments.
+- Identified seasonal trends and patterns in loan originations over time.
+- Built an interactive Power BI dashboard for business stakeholders and decision-makers.
 
-- `analysis.ipynb` — Jupyter Notebook containing the complete Python analysis workflow.
-- `database_setup.sql` — SQL script for database creation and schema management.
-- `dashboard.pbix` — Interactive Power BI report file.
-- `automotive_data.csv` — The cleaned dataset used across the project.
-- `assets/` — Visuals, dashboard screenshots, and architecture diagrams.
+## Files
 
----
-⭐ *This project is part of my professional Data Analyst portfolio. Feel free to explore the code, database, and dashboard visuals!*
+- Python analysis file (`project3_analysis.ipynb`)
+- Power BI dashboard file (`Report.pbix`)
+- Cleaned bank loan dataset (`bank_loan_updated.csv`)
+- Project images and dashboard screenshots
+
+## Portfolio
+
+This project is part of my Data Analyst portfolio.
